@@ -1,8 +1,7 @@
 name: carrier_info_s
 description: A new Flutter plugin.
 version: 1.0.2
-author:
-homepage:
+homepage: https://github.com/PreSwift/carrier_info_s
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
