@@ -1,3 +1,5 @@
-## 0.0.1
+## 1.0.2
+* 解决iOS Pod 错误，iOS可以正常获取数据。但是安卓不能获得数据。
 
-* TODO: Describe initial release.
+## 1.0.1
+* 第一次上传.
